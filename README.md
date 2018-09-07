@@ -39,7 +39,9 @@ Nosotras buscamos continuar la agradable y buena experiencia de usuario que ya e
 ## Presentes en video: 
 En este video se apreciará como realizamos el proyecto mientras comentamos reflexiones y pensamientos que atravesamos en todo este mes junto con nuestra demostración del prototipo navegable .
 
-(www.google.com) ( link del video ) + captura de pantalla 
+![loom](https://user-images.githubusercontent.com/30779762/45218851-958d1d00-b26e-11e8-80ec-d7112b615745.png)
+
+(https://www.useloom.com/share/9dad2047fac24c969165d67b4157acea)
 
 ## 3 .Implementando actividades-herramientas
 
