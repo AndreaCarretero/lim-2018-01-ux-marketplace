@@ -161,4 +161,11 @@ Ahora, nuestros usuarios entrevistados quieren imágenes reales, quieren encontr
 Aquí un cuadro para visualizar la solución: 
 ![solucion](https://user-images.githubusercontent.com/30779762/45216117-19daa280-b265-11e8-8f95-4cda8423a47f.png)
 
+### Prototipando en alta fidelidad 
+
 Nuestro prototipo navegable , realizado con *figma* https://www.figma.com/proto/R8VmpFizHxOHiWYx1fodrFMD/Versi%C3%B3n-Mobile?node-id=0%3A1&scaling=scale-down
+
+
+ ### Compartiendo con desarrolladores
+
+ https://slack-redir.net/link?url=https%3A%2F%2Fzpl.io%2FbznoLR4
