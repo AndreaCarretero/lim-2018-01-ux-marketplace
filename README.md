@@ -43,6 +43,9 @@ En este video se apreciará como realizamos el proyecto mientras comentamos refl
 
 (https://www.useloom.com/share/9dad2047fac24c969165d67b4157acea)
 
+Decidimos realizar un segundo video por si las dudas :
+https://www.useloom.com/share/e144f4b593484915bdfce62d7ff2182c
+
 ## 3 .Implementando actividades-herramientas
 
 ![justificacion de actividaddes 1]
@@ -158,7 +161,29 @@ Decidimos hacer este *journey* con los *pain and gain points* con la experiencia
 
 Al encontrar la falta de confianza y seguridad de los usuarios por malas experiencias en distintos portales como Wish, Alibaba, Mercado libre, entre otros. 
  
-Ahora, nuestros usuarios entrevistados quieren imágenes reales, quieren encontrar precios . En Glovo no existen imágenes al momento de pedir ,es decir, solo las personas que ya conocen la cachangas podrían reconocer los rellenos sin necesidad de ver unaa imagen y/o descripción. 
+Ahora, nuestros usuarios entrevistados quieren imágenes reales, quieren encontrar precios . En Glovo no existen imágenes al momento de pedir ,es decir, solo las personas que ya conocen la cachangas podrían reconocer los rellenos sin necesidad de ver una imagen y/o descripción. 
+
+
+#### Explicando por qué nuestros contenidos y funcionalidades responden a los objetivos del proyecto.
+* Los productos se encuentran en la primera vista, no hay necesidad de un botón o que nuestro usuario tenga que intuir donde se encuentra su tan ansiada carta virtual.
+* Implementamos una bolsa en vez del *carrito de compras* porque en "La Cachanguería" entregan bolsa de papel en vez de solo usar bolsa debido a que se genera menos ingresos y va acorde al brouchure así que recordando nuestro objetivo pues aplicamos esta bolsa al lado superior derecho.
+* Al darle click a cualquier cachanga aparecerá un modal y no una nueva pestaña ya que pudimos deducir que estos clientes frecuentes tienden a percibir una experiencia mejor si es todo más práctico ,transformando la comprar en lo digital.
+* Ahora, refiriéndonos al proceso de compra .Los usuarios al ingresar comúnmente a la página de Facebook si eligirían poner iniciar sesión a través de su misma cuenta y tus datos sean guardados. 
+* Le brindamos diferentes métodos de pago,desde su tarjeta de crédito/ débito y  hasta pagar contraentrega en efectivo o *POS* 
+* Luego le damos la seguridad de que su cachanga está en proceso de envío dándole una confirmación.
+
+
+### Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
+
+* La explicación anterior y esta tienen una relación no por el contenido sino por nuestros objetivos muy presentes en todo el proyecto así que ; los clientes quieren ver sus productos más solicitados en primer momento junto con la información detallada, el tipo de queso o asado con que acompañamiento viene si es que sería el caso y el precio. El famoso *pain* de todos los días en distintos portales web. 
+
+No creamos necesidades al usuario para "venderle" nuestra idea. 
+Los escuchamos, realmente observamos y estuvimos en el momento mientras se expresaban. Recolectamos todas sus respuestas y pensamientos para DARLE REALMENTE lo que no encuentran en otras plataformas ,es más ,darle solución al momento de comprar en su lugar de confianza y así seguir disfrutando de una experiencia grata.
+
+Quisimos ser reales y enfocarnos en resolver el problema aplicando las diversas herramientas ya mencionadas.
+
+Pd: Todo un reto ,sin embargo, disfrutamos mucho escuchar necesidades existentes en la vida cotidiana.
+
 
 Aquí un cuadro para visualizar la solución: 
 ![solucion](https://user-images.githubusercontent.com/30779762/45216117-19daa280-b265-11e8-8f95-4cda8423a47f.png)
