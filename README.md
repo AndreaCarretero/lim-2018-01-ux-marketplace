@@ -190,5 +190,4 @@ Nuestro prototipo navegable , realizado con *figma* https://www.figma.com/proto/
 
  ### Compartiendo con desarrolladores
 
-Web :https://app.zeplin.io/project/5b914482b297d57a7432f462/screen/5b9146fca95e4b9d3984ec8b
-App: zpl://screen?pid=5b914482b297d57a7432f462&sid=5b9146fca95e4b9d3984ec8b 
+ https://app.zeplin.io/project/5b914482b297d57a7432f462
